@@ -1,0 +1,11 @@
+brand,year,km_driven,fuel_type,transmission,owners,engine,mileage,max_power,seats,selling_price
+Maruti,2020,35000,Petrol,Manual,1,1197,21.4,81.8,5,550000
+Hyundai,2019,48000,Diesel,Manual,1,1493,22.0,98.6,5,620000
+Honda,2018,52000,Petrol,Manual,2,1497,17.4,117.3,5,680000
+Tata,2021,28000,Diesel,Manual,1,1497,21.5,108.5,5,850000
+Toyota,2017,75000,Diesel,Automatic,2,2755,14.2,174.5,7,1450000
+Mahindra,2020,42000,Diesel,Manual,1,2179,15.1,140.0,7,1250000
+Maruti,2016,90000,CNG,Manual,2,998,26.6,58.2,5,320000
+Hyundai,2022,18000,Petrol,Automatic,1,1197,18.6,87.7,5,900000
+Honda,2021,25000,Petrol,Automatic,1,1498,18.0,119.3,5,1050000
+Tata,2019,60000,Diesel,Manual,2,1248,25.1,88.7,5,600000
